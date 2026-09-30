@@ -25,7 +25,7 @@ Les textes de la section « Rendez-vous » sont des propositions éditoriales po
 
 - Informations et logo : https://www.helloasso.com/associations/courir-ariege-pyrenees-cap09
 - Logo : https://cdn.helloasso.com/img/logos/croppedimage-59e482ba74ed46c98123ab68e4dd38e3.png — marque de l’association, aucune licence publique de réutilisation indiquée.
-- Photo : Étang d’Escalès à Auzat (Ariège), Krzysztof Golik. https://commons.wikimedia.org/wiki/File:Etang_d%27Escales_06.jpg — CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/. Fichier redimensionné et compressé; recadrage responsive à l’affichage. La licence CC BY-SA 4.0 reste applicable à la photo fournie. Attribution également visible dans le pied de page.
+- Photo d’accueil : image fournie par le club, montrant deux chèvres devant un panorama de montagnes. Le cadrage s’adapte à la taille de l’écran.
 - Liens externes : https://www.athle.fr/ et https://ultrariege.fr/
 
 Le domaine historique cap09.fr n’était pas accessible pendant la réalisation; la page HelloAsso est utilisée comme point d’entrée vérifié.
