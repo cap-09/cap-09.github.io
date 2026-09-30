@@ -17,9 +17,9 @@ Puis consulter http://localhost:4173.
 
 Le contenu, les styles responsive et le menu mobile sont dans `dist/index.html`. Les images sont locales dans `dist/assets/` : la page fonctionne aussi hors ligne, à l’exception des liens externes.
 
-Sections : accueil, présentation du club, communication, liens utiles et invitation à découvrir l’association.
+Sections : accueil, présentation du club, rendez-vous, liens utiles et invitation à découvrir l’association.
 
-Les textes de communication sont des propositions éditoriales pour ce POC, pas des annonces datées. Aucun horaire d’entraînement, événement à venir, contact personnel ou lien d’adhésion actif n’a été inventé. Les boutons du club conduisent à sa page HelloAsso, pas à un formulaire d’inscription. Aucun formulaire, collecte de données ou outil de mesure d’audience n’est inclus.
+Les textes de la section « Rendez-vous » sont des propositions éditoriales pour ce POC, pas des annonces datées. Aucun horaire d’entraînement, événement à venir, contact personnel ou lien d’adhésion actif n’a été inventé. Les boutons du club conduisent à sa page HelloAsso, pas à un formulaire d’inscription. Aucun formulaire, collecte de données ou outil de mesure d’audience n’est inclus.
 
 ## Sources et visuels
 
