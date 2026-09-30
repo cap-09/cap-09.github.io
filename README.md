@@ -26,6 +26,6 @@ Les textes de la section « Rendez-vous » sont des propositions éditoriales po
 - Informations et logo : https://www.helloasso.com/associations/courir-ariege-pyrenees-cap09
 - Logo : https://cdn.helloasso.com/img/logos/croppedimage-59e482ba74ed46c98123ab68e4dd38e3.png — marque de l’association, aucune licence publique de réutilisation indiquée.
 - Photo d’accueil : image fournie par le club, montrant deux chèvres devant un panorama de montagnes. Le cadrage s’adapte à la taille de l’écran.
-- Liens externes : https://www.athle.fr/ et https://ultrariege.fr/
+- Liens externes : https://www.athle.fr/
 
 Le domaine historique cap09.fr n’était pas accessible pendant la réalisation; la page HelloAsso est utilisée comme point d’entrée vérifié.
